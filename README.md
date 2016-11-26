@@ -1,6 +1,10 @@
 # Computer Science video courses
 
-For Introduction/Contribution guidelines, please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md)
+**Introduction**
+
+- Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
+- Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
+- Please check out [NPTEL](http://nptel.ac.in/) for courses by Indian IIT's
 
 ------------------------------
 
@@ -43,13 +47,15 @@ Courses
 - [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](http://cs61a.org/)
 - [SPD1 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
 - [CS E-1 Understanding Computers and the Internet, Spring 2013 - Harvard Extension School](http://cse1.net/lectures) ([Spring 2011](http://computerscience1.tv/2011/spring/))
-- [CSE 142 Computer Programming I (C Programming), Autumn 200 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
+- [CSE 142 Computer Programming I (C Programming), Autumn 2000 - University of Washington](https://courses.cs.washington.edu/courses/cse142-TVI/00au/lectures/)
+- [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
 - [CS1301 Intro to computing - Gatech](http://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
 - [MOOC: Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
 - [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A)
 - [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B)
 - [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
 - [Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
+- [MOOC: Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
 
 ------
 
@@ -69,7 +75,7 @@ Courses
 - [CS16 Introduction to Algorithms and Data Structures - Brown University](http://cs.brown.edu/courses/csci0160/lectures.html)
 - [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 - [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
-- [CS 473: Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html)
+- [CS 473: Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/))
 - [Programming Challenges - Prof Skiena](http://www.algorist.com/programming_challenges/)
 - [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
 - [CS 170 Algorithms - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDbtIylJDpPPJfaFweeaR-3)
@@ -89,6 +95,7 @@ Courses
 - [Advanced Topics in Algorithms and Datastructures - SS 2005 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4/252/)
 - [Algorithmentheorie/Algorithms Theory - WS 2013 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/5402/16009/) ([WS 2011](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/4003/12514/))
 - [Theory I - SS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/2103/8701/)
+- [6.889: Algorithms for Planar Graphs and Beyond (Fall 2011) MIT](http://courses.csail.mit.edu/6.889/fall11/lectures/)
 
 ---------------------------------
 
@@ -239,6 +246,7 @@ Courses
 	- [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 	- [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 	- [Regularization Methods for Machine Learning 2016](http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd) ([YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO))
+	- [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/) 
 
 ------------------------------
 ### Concurrency
@@ -246,6 +254,7 @@ Courses
 - [CSEP 524 - Parallel Computation - University of Washington](http://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](http://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
 - [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
 - [Concurrency Theory and Practice - WS 2010 - Universität Freiburg](https://electures.informatik.uni-freiburg.de/portal/web/guest/detail/-/modulnavigation/view/3303/12101/)
+- [CS176: Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml)([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
 
 ----------------------------
 
@@ -268,7 +277,7 @@ Courses
 
 ### Mobile Applications Development
 - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+- [CS 193p - Developing Applications for iOS, Stanford University](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 - [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
 - [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 - [Android Application Development Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
@@ -280,15 +289,15 @@ Courses
 -------------------------
 
 ### Math for Computer Scientist
-- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
-- [6.042J - Mathematics for Computer Science, Spring 15, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
 - [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
+- [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
 - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-- [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/)
+- [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/) ([YouTube](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF))
 - [MOOC: Statistical Inference - Coursera](https://www.youtube.com/playlist?list=PLgIPpm6tJZoSvrYM54BUqJJ4CWrYeGO40)
 - [MOOC: Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
 - [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
@@ -336,6 +345,7 @@ Courses
 - [MOOC - Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1) ([YouTube](https://www.youtube.com/user/afigfigueira/playlists?sort=dd&view=50&shelf_id=9))
 - [CS294: Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
 - [MOOC: Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+- [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
 
 -------------------------------
 
@@ -347,6 +357,7 @@ Courses
 - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt))
 - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](http://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
+- [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
 - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
 - [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
 - [CS149 Embedded Systems - Fall 2014 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDq3FCoYLeUL-X-NUlT405n)
